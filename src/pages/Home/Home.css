@@ -1,0 +1,35 @@
+.home-container{
+    width: 100%;
+    max-width: 580px;
+    margin: 30px auto 0;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.home-content{
+    margin-top: 100px;
+}
+
+.home-container p{
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.home-content button{
+    padding: 10px 40px;
+    border-radius: 20px;
+    box-shadow: 5px 5px #888888;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.tesouroBtn{
+    background: #53dc8f;
+}
+.bitconBtn{
+    background: #f6ea06;
+}
